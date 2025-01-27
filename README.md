@@ -6,7 +6,7 @@
 - 😄 Pronouns: I am me ... hahaha 😄
 - ⚡ Fun fact: ... Life is interesting. Challenge yourself!
 
-Currently, I'm working on the Amazon project. Im stuck on exercise 13 modules ??? 
+Currently, I'm working on the Amazon project. 
 <!---
 Aaronfarang/Aaronfarang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
